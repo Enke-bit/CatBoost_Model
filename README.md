@@ -1,0 +1,5 @@
+- CatBoost yöntemi ismi "Katogorik değişken modeli" olarak diyebiliriz.
+- Bu model başarımı yüksek bir modeldir.
+- Eğitim modeli diğer modellere nazaran daha uzundur.
+- Gpu desteği sunmaktadır.
+- Bu çalışma umarım katkıda bulunur iyi çalışmalar.
